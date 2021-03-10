@@ -8,7 +8,7 @@ body {
 
 .figma {
     width: 100%;
-    height: 100%;
+    height: 105vh;
 }
 
 #figcaption {
@@ -19,12 +19,14 @@ body {
 }
 
 #header1 {
+    text-align: center;
     position: relative;
     top: 120px;
 }
 
 #para1 {
     position: relative;
+    text-align: center;
     top: 120px;
 }
 
