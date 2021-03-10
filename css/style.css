@@ -1,9 +1,19 @@
 @import "https://fonts.googleapis.com/css?family=Poppins";
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+:root{
+	--myrtle: #479a45;
+	--myrtle-dark : #1F441E;
+}
 body {
 	background-color: #161616;
 	color: #fff;
 	box-sizing: border-box;
 	font-family: "Poppins", sans-serif;
+
 }
 .jumbotron {
 	background: url(/images/figma.jpg);
