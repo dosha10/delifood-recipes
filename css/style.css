@@ -8,6 +8,25 @@
 	--myrtle: #479a45;
 	--myrtle-dark : #1F441E;
 }
+.figma {
+	width: 100%;
+	height: 100%;
+}
+
+#figcaption {
+	font-size: 50px;
+	position: relative;
+	margin-left: 50px;
+	top: 50px;
+}
+#header1 {
+	position: relative;
+	top: 120px;
+}
+#para1 {
+	position: relative;
+	top: 120px;
+}
 body {
 	background-color: #161616;
   color: #fff;
