@@ -1,8 +1,8 @@
 # DELIFOODS RECIPES.
 
-#### This is a web-page that allows users to search and find various food recpes as listed on the Food recipe API used.This web page was created on 10/03/2021.
+#### This is a web-app that allows users to search and find various food recpes as listed on the Food recipe API used.This web page was created on 10/03/2021.
 
-#### By Noel Injaga, Kevin Bett, Brian Maina, Frank Ndung'u, Derick Sikona
+#### By Brian Maina, Noel Injaga, Kevin Bett, Frank Ndung'u, Derick Sikona
 
 ## Description
 
@@ -38,4 +38,4 @@ Please in case of technical hickups or contribution requests do not hesitate to 
 ### License
 
 MIT License
-Copyright (c) {2021} **{Noel Injaga, Kevin Bett, Brian Maina, Frank Ndung'u, Derick Sikona}**
+Copyright (c) {2021} **{Brian Maina, Noel Injaga, Kevin Bett, Frank Ndung'u, Derick Sikona}**
